@@ -9,4 +9,5 @@ This project is in a work in progress state.
 - Github project init
 
 ## Current task:
+- Robot's URDF
 - Basic gazebo sim
