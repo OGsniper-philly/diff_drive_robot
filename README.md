@@ -1,4 +1,4 @@
-# My Robot! built by Nikolai Philipenko
+# My Differential Drive Robot!  by Nikolai Philipenko
 The goal of this project is to make a **differential drive** robot using ROS2. The robot will have teleoperations, mapping and localization, autonomous navigation, and object detection / following.
 
 The robot can be simulated in a Gazebo environment or run on a real bot using raspberry pi and arduino.
