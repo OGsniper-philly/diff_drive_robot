@@ -9,4 +9,4 @@ This project is in a work in progress state.
 - Github project init
 
 ## Current task:
-- Docker setup
+- Basic gazebo sim
