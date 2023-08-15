@@ -5,7 +5,7 @@ The robot can be simulated in a Gazebo environment or run on a real bot using ra
 
 This project is in a work in progress state.
 
-## Completed milestones:
+## Completed:
 - Github project init
 
 ## Current task:
