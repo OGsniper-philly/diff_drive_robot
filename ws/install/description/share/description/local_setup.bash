@@ -1,0 +1,1 @@
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description/ament_cmake_environment_hooks/local_setup.bash

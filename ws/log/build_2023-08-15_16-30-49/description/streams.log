@@ -1,0 +1,37 @@
+[0.007s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake /home/nikolai/Documents/ROS/diff_drive_robot/ws/src/description -DCMAKE_INSTALL_PREFIX=/home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description
+[0.014s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.090s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.093s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.132s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.132s] -- Added test 'lint_cmake' to check CMake code style
+[0.132s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.132s] -- Added test 'xmllint' to check XML markup files
+[0.133s] -- Configuring done
+[0.134s] -- Generating done
+[0.135s] -- Build files have been written to: /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description
+[0.137s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake /home/nikolai/Documents/ROS/diff_drive_robot/ws/src/description -DCMAKE_INSTALL_PREFIX=/home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description
+[0.138s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description -- -j20 -l20
+[0.156s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description -- -j20 -l20
+[0.170s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description
+[0.174s] -- Install configuration: ""
+[0.175s] -- Execute custom install script
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/description/materials.xacro
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/description/nik_bot.urdf.xacro
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/description/nik_bot_core.xacro
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/launch/display.launch.py
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/ament_index/resource_index/package_run_dependencies/description
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/ament_index/resource_index/parent_prefix_path/description
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/environment/ament_prefix_path.sh
+[0.175s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/environment/ament_prefix_path.dsv
+[0.176s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/environment/path.sh
+[0.176s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/environment/path.dsv
+[0.176s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/local_setup.bash
+[0.176s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/local_setup.sh
+[0.176s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/local_setup.zsh
+[0.176s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/local_setup.dsv
+[0.176s] -- Symlinking: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/package.dsv
+[0.180s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/ament_index/resource_index/packages/description
+[0.180s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/cmake/descriptionConfig.cmake
+[0.180s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/cmake/descriptionConfig-version.cmake
+[0.180s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/description/share/description/package.xml
+[0.182s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/description
