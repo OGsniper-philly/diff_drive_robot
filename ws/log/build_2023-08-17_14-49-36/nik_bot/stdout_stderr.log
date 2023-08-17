@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/gazebo_diff_control.xacro
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/materials.xacro
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/nik_bot.urdf.xacro
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/nik_bot_core.xacro
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/launch/rsp.launch.py
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/launch/simulator.launch.py
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/package_run_dependencies/nik_bot
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/parent_prefix_path/nik_bot
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/path.sh
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/path.dsv
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.bash
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.sh
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.zsh
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.dsv
+-- Symlinking: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/package.dsv
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/packages/nik_bot
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/cmake/nik_botConfig.cmake
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/cmake/nik_botConfig-version.cmake
+-- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/package.xml

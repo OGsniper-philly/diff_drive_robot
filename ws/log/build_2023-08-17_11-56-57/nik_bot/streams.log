@@ -1,0 +1,27 @@
+[0.007s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot -- -j20 -l20
+[0.026s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot -- -j20 -l20
+[0.041s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot
+[0.044s] -- Install configuration: ""
+[0.044s] -- Execute custom install script
+[0.044s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/inertial_macros.xacro
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/materials.xacro
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/nik_bot.urdf.xacro
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/nik_bot_core.xacro
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/launch/rsp.launch.py
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/launch/simulator.launch.py
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/package_run_dependencies/nik_bot
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/parent_prefix_path/nik_bot
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/ament_prefix_path.sh
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/ament_prefix_path.dsv
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/path.sh
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/path.dsv
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.bash
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.sh
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.zsh
+[0.045s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.dsv
+[0.045s] -- Symlinking: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/package.dsv
+[0.050s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/packages/nik_bot
+[0.050s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/cmake/nik_botConfig.cmake
+[0.050s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/cmake/nik_botConfig-version.cmake
+[0.050s] -- Up-to-date symlink: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/package.xml
+[0.051s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot

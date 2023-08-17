@@ -1,0 +1,1 @@
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/ament_cmake_core/nik_botConfig.cmake

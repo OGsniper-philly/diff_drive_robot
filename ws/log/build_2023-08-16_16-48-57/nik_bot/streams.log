@@ -1,0 +1,51 @@
+[0.007s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake /home/nikolai/Documents/ROS/diff_drive_robot/ws/src/nik_bot -DCMAKE_INSTALL_PREFIX=/home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot
+[0.036s] -- The C compiler identification is GNU 11.4.0
+[0.065s] -- The CXX compiler identification is GNU 11.4.0
+[0.069s] -- Detecting C compiler ABI info
+[0.110s] -- Detecting C compiler ABI info - done
+[0.114s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.114s] -- Detecting C compile features
+[0.114s] -- Detecting C compile features - done
+[0.116s] -- Detecting CXX compiler ABI info
+[0.159s] -- Detecting CXX compiler ABI info - done
+[0.164s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.164s] -- Detecting CXX compile features
+[0.164s] -- Detecting CXX compile features - done
+[0.165s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.259s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.305s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.348s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.348s] -- Added test 'lint_cmake' to check CMake code style
+[0.348s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.349s] -- Added test 'xmllint' to check XML markup files
+[0.350s] -- Configuring done
+[0.351s] -- Generating done
+[0.351s] -- Build files have been written to: /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot
+[0.355s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake /home/nikolai/Documents/ROS/diff_drive_robot/ws/src/nik_bot -DCMAKE_INSTALL_PREFIX=/home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot
+[0.355s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot -- -j20 -l20
+[0.374s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --build /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot -- -j20 -l20
+[0.387s] Invoking command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot
+[0.390s] -- Install configuration: ""
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/nik_bot_core.xacro
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/materials.xacro
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/inertial_macros.xacro
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/description/nik_bot.urdf.xacro
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/launch
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/launch/rsp.launch.py
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/package_run_dependencies/nik_bot
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/parent_prefix_path/nik_bot
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/ament_prefix_path.sh
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/ament_prefix_path.dsv
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/path.sh
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/environment/path.dsv
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.bash
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.sh
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.zsh
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/local_setup.dsv
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/package.dsv
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/ament_index/resource_index/packages/nik_bot
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/cmake/nik_botConfig.cmake
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/cmake/nik_botConfig-version.cmake
+[0.391s] -- Installing: /home/nikolai/Documents/ROS/diff_drive_robot/ws/install/nik_bot/share/nik_bot/package.xml
+[0.392s] Invoked command in '/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nikolai/Documents/ROS/catching_turtles_ros2/ws/install/python_pkg:/opt/ros/humble /usr/bin/cmake --install /home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot

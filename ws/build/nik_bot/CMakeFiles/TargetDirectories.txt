@@ -1,0 +1,9 @@
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/uninstall.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/nik_bot_uninstall.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/test.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/edit_cache.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/rebuild_cache.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/list_install_components.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/install.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/install/local.dir
+/home/nikolai/Documents/ROS/diff_drive_robot/ws/build/nik_bot/CMakeFiles/install/strip.dir
