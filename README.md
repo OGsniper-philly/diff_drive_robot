@@ -7,7 +7,10 @@ This project is in a work in progress state.
 
 ## Completed:
 - Github project init
-
-## Current task:
 - Robot's URDF
 - Basic gazebo sim
+
+## Current task:
+- Raspberry Pi setup
+- Robot power setup
+- Arduino motor setup
