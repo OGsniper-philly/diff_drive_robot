@@ -8,7 +8,7 @@ This project is in a work in progress state.
 ## Completed:
 - Github project init
 - Robot's URDF
-- Basic gazebo sim
+- Basic gazebo sim with diff_drive_plugin
 
 ## Current task:
 - Raspberry Pi setup
